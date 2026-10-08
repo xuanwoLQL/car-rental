@@ -1,0 +1,9 @@
+*.class
+out/
+bin/
+.vscode/
+.idea/
+*.doc
+*.docx
+*.zip
+
